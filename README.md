@@ -1,16 +1,130 @@
-## Hi there 👋
+<h2 align="left">📊 Harun's Data Analytics Portfolio</h2>
 
-<!--
-**Haruharun/Haruharun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+Turning Raw Data into Actionable Insights Through Storytelling & Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Welcome to my GitHub!<br><br>I am a **Data Analyst** passionate about transforming numbers into compelling **data stories** that drive business decisions. With expertise in **SQL** and **Power BI**, I specialize in structuring data, uncovering trends, and creating insightful visualizations that make complex information easy to understand.<br><br>
+🔍 What I Do Best:
+  
+- Data Storytelling – Communicating insights through clear, compelling visualizations.
+  
+- SQL Query Optimization – Writing efficient queries for fast and reliable data retrieval.
+  
+- Power BI Dashboarding – Designing interactive reports that uncover actionable insights.
+  
+- Trend Analysis & Predictive Insights – Using data to anticipate future patterns and opportunities.
+  
+- Business Intelligence Solutions – Structuring analytics to improve decision-making.
+
+  
+I believe data has a story to tell, and my role is to make it speak clearly and meaningfully.</p>
+
+
+#
+
+###
+
+<h3 align="left">🧰 Tools & Technologies </h3>
+
+###
+
+<div align="left">
+  <img align="left" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=117561&format=png" width="30px" alt="Excel Logo"  />
+  <img align="left" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" width="30px" alt="Power Bi Logo"  />
+  <img align="left" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=9Kvi1p1F0tUo&format=png" width="30px" alt="Tableau Logo"  />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px" alt="sqlite logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="30px" alt="sqlalchemy logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30px" alt="r logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" alt="postgresql logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px" alt="pandas logo"  />
+  <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30px" alt="jupyter logo"  />
+
+  
+</div>
+<br />
+
+<h3 align="left">📈 Featured Projects</h3>
+- Market Trends Dashboard – A Power BI visualization highlighting key business performance metrics.
+- Customer Segmentation Analysis – Using SQL to structure and categorize customer data for better insights.
+- Revenue Forecasting – Identifying trends and predicting future patterns through advanced analytics.
+
+<h3 align="left">🌍 Let's Connect!</h3
+
+
+
+#
+
+
+###
+
+<h3>💼 Projects by Viz Tools Used </h3>
+
+
+###
+
+<div>
+  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+    <img src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" width="15px" alt="Power BI Logo" />
+    <a href="https://github.com/search?q=user:fasibor+topic:power-bi" target="_blank" rel="noopener noreferrer">Power BI Projects</a>
+  </div>
+  
+</div>
+
+
+
+
+#
+
+###
+
+<h3 align="left">💬 Contact Me Here </h3>
+
+###
+
+<div align="left">
+ <a href="http://www.linkedin.com/in/harun-weru-792ab4256" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" style="margin-right: 12px;" />
+</a>
+<a href="https://medium.com/@fasibor" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo" style="margin-right: 12px;" />
+</a>
+<a href="https://x.com/HaruWeru/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" style="margin-right: 12px;" />
+</a>
+<a href="https://web.facebook.com/fasibor" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" style="margin-right: 12px;" />
+</a>
+<a href="https://wa.me/message/47L6IKVQMEYOB1" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" style="margin-right: 12px;" />
+</a>
+  
+</div>
+
+#
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fasibor/fasibor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fasibor/fasibor/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fasibor/fasibor/output/github-snake.svg" />
+</picture>
+
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=fasibor" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+
+
