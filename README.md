@@ -1,10 +1,14 @@
-<h2 align="left">📊 Harun's Data Analytics Portfolio</h2>
+<h2 align="left">📊 Harun</h2>
 
 ###
 
 Turning Raw Data into Actionable Insights Through Storytelling & Analytics
 
-<p align="left">Welcome to my GitHub!<br><br>I am a **Data Analyst** passionate about transforming numbers into compelling **data stories** that drive business decisions. With expertise in **SQL** and **Power BI**, I specialize in structuring data, uncovering trends, and creating insightful visualizations that make complex information easy to understand.<br><br>
+<p align="left">Welcome to my GitHub!<br><br>I'm a Data Analyst with a background in Computer Science, passionate about transforming data into compelling stories that drive business success.
+I don’t just analyze numbers—I uncover the insights hidden within them. As a Data Visualization Specialist, I translate complex datasets into clear, actionable narratives that help businesses make informed decisions.
+With SQL as my backbone and Power BI as my storytelling canvas, I craft interactive dashboards, trend analyses, and impactful visuals that reveal opportunities, mitigate risks, and support strategic growth. Whether it's identifying customer behavior patterns, forecasting market trends, or optimizing performance metrics, I ensure that data isn’t just seen—it’s understood, trusted, and acted upon.
+Data has the power to inform, persuade, and transform—I make sure it speaks loud and clear
+.<br><br>
 🔍 What I Do Best:
   
 - Data Storytelling – Communicating insights through clear, compelling visualizations.
@@ -110,7 +114,7 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=fasibor" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Haruharun" alt="Layout with last medium posts"  />
 </div>
 
 ###
