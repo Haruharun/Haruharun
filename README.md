@@ -113,11 +113,9 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Haruharun" alt="Layout with last medium posts"  />
-</div>
 
-###
+
+
 
 
 
