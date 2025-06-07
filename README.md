@@ -29,7 +29,7 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
 
 ###
 
-<h3 align="left">🧰 Tools & Technologies </h3>
+<h3 align="left">🧰 Tools & languages </h3>
 
 ###
 
@@ -59,7 +59,7 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
 
 ###
 
-<h3>💼 Projects by Viz Tools Used </h3>
+<h3>💼 Projects & Tools Used </h3>
 
 
 ###
