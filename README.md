@@ -48,13 +48,6 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
 </div>
 <br />
 
-<h3 align="left">📈 Featured Projects</h3>
-- Market Trends Dashboard – A Power BI visualization highlighting key business performance metrics.
-- Customer Segmentation Analysis – Using SQL to structure and categorize customer data for better insights.
-- Revenue Forecasting – Identifying trends and predicting future patterns through advanced analytics.
-
-<h3 align="left">🌍 Let's Connect!</h3
-
 
 
 #
@@ -90,16 +83,12 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
  <a href="http://www.linkedin.com/in/harun-weru-792ab4256" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" style="margin-right: 12px;" />
 </a>
-<a href="https://medium.com/@fasibor" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo" style="margin-right: 12px;" />
-</a>
+
 <a href="https://x.com/HaruWeru/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" style="margin-right: 12px;" />
 </a>
-<a href="https://web.facebook.com/fasibor" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" style="margin-right: 12px;" />
-</a>
-<a href="https://wa.me/message/47L6IKVQMEYOB1" target="_blank">
+
+<a href="https://wa.me/254701296656" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" style="margin-right: 12px;" />
 </a>
   
