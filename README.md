@@ -54,24 +54,6 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
 
 
 
-#
-
-
-###
-
-<h3>💼 Projects & Tools Used </h3>
-
-
-###
-
-<div>
-  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
-    <img src="https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png" width="15px" alt="Power BI Logo" />
-    <a href="https://github.com/Haruharun/mobile-sales-analysis.git" target="_blank" rel="noopener noreferrer">Power BI Projects</a>
-  </div>
-  
-</div>
-
 
 
 
@@ -97,6 +79,8 @@ I believe data has a story to tell, and my role is to make it speak clearly and 
 </a>
   
 </div>
+
+
 
 #
 
