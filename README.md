@@ -2,7 +2,7 @@
 
 ###
 
-Turning Raw Data into Actionable Insights Through Storytelling & Analytics
+Turning Raw Data into Actionable Insights Through Storytelling & Analytics.
 
 <p align="left">Welcome to my GitHub!<br><br>I'm a Data Analyst with a background in Computer Science, passionate about transforming data into compelling stories that drive business success.
 I don’t just analyze numbers—I uncover the insights hidden within them. As a Data Visualization Specialist, I translate complex datasets into clear, actionable narratives that help businesses make informed decisions.
